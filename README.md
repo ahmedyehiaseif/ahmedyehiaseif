@@ -15,7 +15,7 @@ With a strong background in **software engineering**, **AI-driven automation**, 
 ## 🎯 **Key Focus Areas**
 
 - **B2B SaaS**
-- **Cross-Border E-commerce**
+- **Cross Border E-commerce**
 - **AI & Automation**  
 - **Product Architecture**
 - **Cloud Infrastructure**  
