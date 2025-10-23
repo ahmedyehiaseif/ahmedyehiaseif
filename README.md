@@ -64,9 +64,8 @@ With a strong background in **software engineering**, **AI-driven automation**, 
 ---
 
 ## 🔍 **SEO Keywords**
+Ahmed Yehia Seif, Head of Technology, TijaraHub, B2B SaaS, AI-driven Automation, Cross-Border B2B E-commerce, MENA Market Expansion, GCC Expansion, Digital Transformation, Software Engineering, Cloud Architecture, Digital Strategy  
 
-**Ahmed Yehia Seif** • **Head of Technology** • **TijaraHub** • **B2B SaaS** • **AI Automation**  
-**Cross-Border E-commerce** • **MENA Market** • **GCC Expansion** • **Digital Transformation**
 
 ---
 
