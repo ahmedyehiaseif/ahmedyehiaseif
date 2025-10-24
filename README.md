@@ -37,7 +37,7 @@ With a strong background in **software engineering**, **AI-driven automation**, 
 ### **Key Projects:**
 1. **[Cargo Quot AI](https://rfq-iframe.tijarahub.com/autologix/?_=fc2387f40c0b6b2d86951036d30b4582061ef9afee8ae92398854ee12f865764f4e7ff628e376feb&user_id=15&lang_code=EN&__=2a52b0c9b6d35fa0b447800864cfa141e51c90fa296d64856075c067170f82f515089a8cbd384f6d)** - *AI-powered cargo quotation system*
 2. **[Hub Sourcing System](https://hub.tijarahub.com/en)** - *Comprehensive sourcing platform*
-3. **TijaraHub Platform** - *B2B cross-border e-commerce solution*
+3. **[TijaraHub Platform](https://tijarahub.com)** - *B2B cross-border e-commerce solution*
 
 ---
 
@@ -49,6 +49,7 @@ With a strong background in **software engineering**, **AI-driven automation**, 
 - **📸 Social**: [Instagram](https://www.instagram.com/ahmedyehia.seif) - *Personal updates*
 - **🎨 Design**: [Behance](http://www.behance.net/ahmedyehiaseif) - *Design portfolio*
 - **👍 Social**: [Facebook](https://www.facebook.com/ahmedyehiaseif) - *Social connection*
+- **👍 Social**: [Twitter X](https://x.com/ahmedyehiaseif1) - *Social connection*
 
 ---
 
